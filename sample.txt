@@ -1,1 +1,4 @@
 This is my first file to check-in
+second line added
+third line added
+fourth line added
